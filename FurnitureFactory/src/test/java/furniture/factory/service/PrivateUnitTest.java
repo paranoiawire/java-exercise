@@ -1,4 +1,4 @@
-package hackerrank;
+package furniture.factory.service;
 
 import java.util.HashMap;
 
@@ -7,6 +7,8 @@ import org.junit.BeforeClass;
 import org.junit.FixMethodOrder;
 import org.junit.Test;
 import org.junit.runners.MethodSorters;
+
+import furniture.factory.model.Furniture;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 

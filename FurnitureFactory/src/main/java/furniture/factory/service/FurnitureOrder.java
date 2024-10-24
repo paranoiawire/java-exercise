@@ -1,7 +1,9 @@
-package hackerrank;
+package furniture.factory.service;
 
 import java.util.HashMap;
 import java.util.stream.Collectors;
+
+import furniture.factory.model.Furniture;
 
 public class FurnitureOrder implements FurnitureOrderInterface {
     

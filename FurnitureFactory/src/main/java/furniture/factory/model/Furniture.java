@@ -1,4 +1,4 @@
-package hackerrank;
+package furniture.factory.model;
 
 /**
  * FURNITURE_TYPE("Furniture Name", floating-point cost)
